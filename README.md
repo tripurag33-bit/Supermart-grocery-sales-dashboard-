@@ -17,4 +17,4 @@ HTML, CSS, JavaScript, Chart.js
 ## How to Run
 Open index.html in browser.
 
-https://GitHub.com/tripurag33-bit/supermart grocery sales dashboard
+https://GitHub.com/tripurag33-bit/supermart-grocery-sales-dashboard
