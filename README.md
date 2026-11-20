@@ -48,6 +48,8 @@ Records: 9,994
 Period: 2015–2018
 🛒 Supermart Grocery Sales Dashboard | Excel Data Analytics Project
 
+Excel sheet dashboard link👉https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Grocery_Sales_Dashboard-1.xlsx
+
 📌 Project Overview
 
 This project analyzes 9,994 grocery sales records from 2015 to 2018 using Microsoft Excel. The raw data is transformed into an interactive dashboard to monitor sales, profit, order volume, discounts, product categories, and regional performance.
@@ -121,3 +123,6 @@ Project Title: Supermart Grocery Sales Dashboard
 Tool: Microsoft Excel
 Dataset Period: 2015–2018
 Records Analyzed: 9,994
+
+supermart grocery summary and overview images here👉👉👉https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Summary_Image.pnghttps://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Overview_Image.png
+
