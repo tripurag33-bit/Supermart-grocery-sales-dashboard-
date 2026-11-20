@@ -48,7 +48,8 @@ Records: 9,994
 Period: 2015–2018
 🛒 Supermart Grocery Sales Dashboard | Excel Data Analytics Project
 
-Excel sheet dashboard link👉https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Grocery_Sales_Dashboard-1.xlsx
+Excel sheet dashboard link👇
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Grocery_Sales_Dashboard-1.xlsx
 
 📌 Project Overview
 
@@ -124,5 +125,9 @@ Tool: Microsoft Excel
 Dataset Period: 2015–2018
 Records Analyzed: 9,994
 
-📶✅supermart grocery summary and overview images here👉👉👉https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Summary_Image.pnghttps://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Overview_Image.png
+📶✅supermart grocery summary and overview images here👇👇👇
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Summary_Image.png 
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Overview_Image.png
 
