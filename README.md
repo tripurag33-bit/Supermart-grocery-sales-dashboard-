@@ -53,6 +53,8 @@ Period: 2015–2018
 🛒 Supermart Grocery Sales Dashboard | Excel Data Analytics Project
 
 Excel sheet dashboard link👇
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/6a51c0344dad46bfd53978c7d36c44b659fdd937/Supermart_Grocery_Sales_Geographic_Analytics_Enhanced-2.xlsx
+
 https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/43cf0edbd68fcebc290b234b8eaecca5e06da586/Supermart_Grocery_Sales_Dashboard-1-v2.xlsx
 📌 Project Overview
 
@@ -133,4 +135,13 @@ Records Analyzed: 9,994
 https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Summary_Image.png 
 
 https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/4a20432f68cb94a46620929302bc5c70fa099f39/Supermart_Overview_Image.png
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/6a51c0344dad46bfd53978c7d36c44b659fdd937/01_Geographic_KPI_Overview.png
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/6a51c0344dad46bfd53978c7d36c44b659fdd937/02_Regional_Sales_Profit_Charts.png
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/6a51c0344dad46bfd53978c7d36c44b659fdd937/03_Top_10_Cities_Sales.png
+
+https://github.com/tripurag33-bit/Supermart-grocery-sales-dashboard-/blob/6a51c0344dad46bfd53978c7d36c44b659fdd937/04_State_Performance.png
+
 
