@@ -1,5 +1,9 @@
 # Supermart-grocery-sales-dashboard
-Supermart Grocery Sales Dashboard is a data analytics project focused on analyzing sales, profit, product.This interactive dashboard shows Total Sales, Total Profit, Total Orders, and Average Discount in one place. Users can filter data by Category (Dairy, Bakery, Beverages, Vegetables, Snacks) and by City (Shillong, Guwahati, Agartala, Aizawl).
+This project uses Microsoft Excel to analyze 9,994 Supermart Grocery Sales records from 2015 to 2018. An
+interactive-style dashboard presents key metrics including Total Sales, Total Profit, Total Orders, Average
+Discount, and Profit Margin. The analysis explores sales trends, category and sub-category performance, regional
+contributions, and discount-profit patterns. The workbook includes a dashboard, supporting analysis tables, and
+the cleaned source data to make the results easy to review and extend.
 # Supermart Grocery Sales Dashboard
 
 Supermart Grocery Sales Dashboard | Excel Data Analytics Project
